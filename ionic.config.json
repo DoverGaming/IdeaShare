@@ -1,0 +1,7 @@
+{
+  "name": "IdeaShare",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
